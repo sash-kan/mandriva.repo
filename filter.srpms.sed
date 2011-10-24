@@ -1,0 +1,15 @@
+/kernel-firmware-extra-20101102-1mnb2\.src/d
+/kernel-firmware-extra-20101220-1mnb2\.src/d
+/kernel-firmware-extra-20110125-1\.src/d
+/kernel-firmware-extra-20110310-1\.src/d
+/kernel-firmware-extra-20110310-2\.src/d
+/kernel-rsbac-2.6.38.7-1.src/d
+/kernel-rsbac-2.6.38.7-2.src/d
+/mandriva-kde4-config-2011-0\.23\.src/d
+/openssl-0.9.8n-1mdv2010.1.src/d
+/timezone-2011f-1.src/d
+/xulrunner-2\.0\.1-2\.src/d
+/xulrunner-2\.0-3\.src/d
+s/clamav-0\.97\.3-0\.1\.src/clamav-0.97.3-1.src/
+s/dracut-008-2\.src/dracut-010-6.src/
+s/tk-8\.6-0\.b1\.7mdv2011\.0\.src/tk-8.6-0.b1.8.src/
